@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/starwars_background.jpg")
+}
+
+#game-title {
+    font-size: 35px;
+    text-align: center;
+}
+
+#staging-area {
+    width: 900px;
+    height: 300px;
+}
+
+.character-box img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+}
+
+#character-list {
+    margin: 10px;
+}
